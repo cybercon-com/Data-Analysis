@@ -171,9 +171,11 @@ ConsumableFunction("Spirits",
 ConsumableFunction("Eggs",
                    "Kilograms", "Capita", "Year",
                    "C:/Users/David Lu/Downloads/What Consumable Makes Us Happiest/per-capita-egg-consumption-kilograms-per-year.csv")
+'''
 ConsumableFunction("Electricity",
                    "Kilowatt-hours", "Capita", "Year",
                    "C:/Users/David Lu/Downloads/What Consumable Makes Us Happiest/per-capita-electricity-consumption.csv")
+'''
 ConsumableFunction("Milk",
                    "Kilograms", "Capita", "Year",
                    "C:/Users/David Lu/Downloads/What Consumable Makes Us Happiest/per-capita-milk-consumption.csv")
